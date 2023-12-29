@@ -1,6 +1,6 @@
 # Paper-Classification
 
-*Graph convolutional network **
+**Graph convolutional network **
 for paper classification (7 classes) using Pytorch. 
 Finished the code in gnn_main.py and gnn_utils.py
 
